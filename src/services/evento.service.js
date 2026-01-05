@@ -1,6 +1,6 @@
 // src/services/evento.service.js
 
-import axios from './axios';
+import axios from './Axios';
 
 const eventoService = {
   /**
