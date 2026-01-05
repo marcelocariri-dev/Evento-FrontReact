@@ -1,6 +1,6 @@
 // src/services/locais.service.js
 
-import axios from './axios';  // ← Minúsculo!
+import axios from './Axios';  // ← Minúsculo!
 
 const locaisService = {
   /**
