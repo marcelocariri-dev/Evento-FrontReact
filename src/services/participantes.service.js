@@ -1,6 +1,6 @@
 // src/services/participantes.service.js
 
-import axios from './axios';
+import axios from './Axios';
 
 const participantesService = {
   /**
