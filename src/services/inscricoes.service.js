@@ -1,6 +1,6 @@
 // src/services/inscricoes.service.js
 
-import axios from './axios';
+import axios from './Axios';
 
 const inscricoesService = {
   /**
